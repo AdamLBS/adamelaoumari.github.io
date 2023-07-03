@@ -19,36 +19,35 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I'm a young developper, student at Epitech, pedagogical assistant and I'm also a freelancer at Dealcover as a fullstack developper.
               <br />
-              <br />I am fluent in classics like
+              <br />I am very comfortable with languages such as
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> C++, Dart, C, Java and bash.</b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              I'm also very interested in  &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">Cybersecurity </b> and
+                have completed multiple CTFs challenges, during my Epitech courses {" "}
                 <b className="purple">
-                  Blockchain.
+                  (finished 13th in 1st year, and 7th in 2nd year over more than 200 teams).
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              Whenever possible, I also work on some side projects (CTF, Mobile applications) mostly using
+              <b className="purple"> Flutter</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  using technologies
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; such as
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> Firestore (NoSQL), Cloud Functions...</b>
               </i>
             </p>
           </Col>
@@ -62,12 +61,12 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              You can <span className="purple">connect </span>with me
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/AdamLBS"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +76,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/AdamLBS2"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,22 +86,12 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/adam-elaoumari/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
                 </a>
               </li>
             </ul>
