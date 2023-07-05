@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/adamelaoumari.github.io/static/css/main.97d7ba73.css",
+    "main.js": "/adamelaoumari.github.io/static/js/main.65116dec.js",
+    "static/js/415.4d6acbeb.chunk.js": "/adamelaoumari.github.io/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/adamelaoumari.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/previplus.png": "/adamelaoumari.github.io/static/media/previplus.8edc236807ca679801f8.png",
+    "static/media/cv.pdf": "/adamelaoumari.github.io/static/media/cv.149a0d7437fe2724c911.pdf",
+    "static/media/home-main.svg": "/adamelaoumari.github.io/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/adamelaoumari.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/myrpg.png": "/adamelaoumari.github.io/static/media/myrpg.72f81cb97f0942e4d18f.png",
+    "static/media/arcade.png": "/adamelaoumari.github.io/static/media/arcade.eaa5e12507607c105e6e.png",
+    "static/media/home-bg.jpg": "/adamelaoumari.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/minishell.png": "/adamelaoumari.github.io/static/media/minishell.fb26e2df76f5535e4fad.png",
+    "static/media/avatar.svg": "/adamelaoumari.github.io/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/myintra.png": "/adamelaoumari.github.io/static/media/myintra.d24c1aa8542b4ae7e4a2.png",
+    "static/media/pre.svg": "/adamelaoumari.github.io/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/adamelaoumari.github.io/index.html",
+    "main.97d7ba73.css.map": "/adamelaoumari.github.io/static/css/main.97d7ba73.css.map",
+    "main.65116dec.js.map": "/adamelaoumari.github.io/static/js/main.65116dec.js.map",
+    "415.4d6acbeb.chunk.js.map": "/adamelaoumari.github.io/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/adamelaoumari.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97d7ba73.css",
+    "static/js/main.65116dec.js"
+  ]
+}
